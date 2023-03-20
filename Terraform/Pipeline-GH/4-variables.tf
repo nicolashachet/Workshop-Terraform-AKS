@@ -9,7 +9,7 @@ variable "azureRegion" {
 #  Resource Group Name
 variable "resourceGroupName" {
   type    = string
-  default = "RG-AKSCluster-NH"
+  default = "RG-AKSCluster-NH-TEST"
 }
 
 
